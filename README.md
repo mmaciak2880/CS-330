@@ -1,0 +1,5 @@
+Throughout the development of this project I learned new and different skills for creating a 3D scene using OpenGL. I learned how to create objects made up of shapes. How to scale, position, and texture the shapes that made up an object. My 
+process for this project was creating the most challenging aspects first. Making it so that now I solved those challenges that the rest of the objects would be even easier to create. This being my first experience with OpenGL I did experience 
+a great deal of irritation. This led me to having to take breaks, gather more resources, and come back to it many times. This however did lead me to having a better understanding of the programming of the scene. This cycle was experienced 
+during each milestone that led to the completion of the project. While computational graphics may not be the field that I want to go into. It is important to have a basic understanding of it. If in the future I am working on software 
+that pairs with computational graphics. It is important that I know what will be going on even if I am not the one programming that side of the project.
